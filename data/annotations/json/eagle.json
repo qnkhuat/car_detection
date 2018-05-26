@@ -1,0 +1,1060 @@
+[
+  {
+    "filename": "00550.jpg",
+    "size": 25295,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "11",
+            "394",
+            "394",
+            "11"
+          ],
+          "all_points_y": [
+            "130",
+            "130",
+            "257",
+            "257"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "00606.jpg",
+    "size": 363031,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "99",
+            "894",
+            "894",
+            "99"
+          ],
+          "all_points_y": [
+            "72",
+            "72",
+            "675",
+            "675"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "00616.jpg",
+    "size": 156492,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "61",
+            "737",
+            "737",
+            "61"
+          ],
+          "all_points_y": [
+            "66",
+            "66",
+            "430",
+            "430"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "01434.jpg",
+    "size": 91900,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "52",
+            "754",
+            "754",
+            "52"
+          ],
+          "all_points_y": [
+            "96",
+            "96",
+            "498",
+            "498"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "01619.jpg",
+    "size": 857588,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "244",
+            "1321",
+            "1321",
+            "244"
+          ],
+          "all_points_y": [
+            "433",
+            "433",
+            "1075",
+            "1075"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "01676.jpg",
+    "size": 864663,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "130",
+            "1537",
+            "1537",
+            "130"
+          ],
+          "all_points_y": [
+            "169",
+            "169",
+            "1156",
+            "1156"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02066.jpg",
+    "size": 855213,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "46",
+            "1249",
+            "1249",
+            "46"
+          ],
+          "all_points_y": [
+            "315",
+            "315",
+            "943",
+            "943"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02429.jpg",
+    "size": 1052926,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "94",
+            "1049",
+            "1049",
+            "94"
+          ],
+          "all_points_y": [
+            "440",
+            "440",
+            "917",
+            "917"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02532.jpg",
+    "size": 563940,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "22",
+            "1408",
+            "1408",
+            "22"
+          ],
+          "all_points_y": [
+            "67",
+            "67",
+            "859",
+            "859"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02612.jpg",
+    "size": 61452,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "17",
+            "548",
+            "548",
+            "17"
+          ],
+          "all_points_y": [
+            "147",
+            "147",
+            "362",
+            "362"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02692.jpg",
+    "size": 94756,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "41",
+            "656",
+            "656",
+            "41"
+          ],
+          "all_points_y": [
+            "104",
+            "104",
+            "401",
+            "401"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02710.jpg",
+    "size": 50279,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "44",
+            "525",
+            "525",
+            "44"
+          ],
+          "all_points_y": [
+            "99",
+            "99",
+            "371",
+            "371"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02831.jpg",
+    "size": 151616,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "208",
+            "708",
+            "708",
+            "208"
+          ],
+          "all_points_y": [
+            "166",
+            "166",
+            "571",
+            "571"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02838.jpg",
+    "size": 506283,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "100",
+            "1597",
+            "1597",
+            "100"
+          ],
+          "all_points_y": [
+            "322",
+            "322",
+            "1123",
+            "1123"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02869.jpg",
+    "size": 29007,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "2",
+            "446",
+            "446",
+            "2"
+          ],
+          "all_points_y": [
+            "53",
+            "53",
+            "203",
+            "203"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "02917.jpg",
+    "size": 63090,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "37",
+            "562",
+            "562",
+            "37"
+          ],
+          "all_points_y": [
+            "32",
+            "32",
+            "376",
+            "376"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "03058.jpg",
+    "size": 49563,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "44",
+            "548",
+            "548",
+            "44"
+          ],
+          "all_points_y": [
+            "38",
+            "38",
+            "463",
+            "463"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "03084.jpg",
+    "size": 44758,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "3",
+            "574",
+            "574",
+            "3"
+          ],
+          "all_points_y": [
+            "2",
+            "2",
+            "429",
+            "429"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "03264.jpg",
+    "size": 256800,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "163",
+            "1588",
+            "1588",
+            "163"
+          ],
+          "all_points_y": [
+            "319",
+            "319",
+            "1027",
+            "1027"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "03270.jpg",
+    "size": 64912,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "167",
+            "478",
+            "478",
+            "167"
+          ],
+          "all_points_y": [
+            "147",
+            "147",
+            "325",
+            "325"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "03272.jpg",
+    "size": 208775,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "203",
+            "1278",
+            "1278",
+            "203"
+          ],
+          "all_points_y": [
+            "191",
+            "191",
+            "812",
+            "812"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "03671.jpg",
+    "size": 94410,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "57",
+            "619",
+            "619",
+            "57"
+          ],
+          "all_points_y": [
+            "47",
+            "47",
+            "458",
+            "458"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "03674.jpg",
+    "size": 497286,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "64",
+            "2624",
+            "2624",
+            "64"
+          ],
+          "all_points_y": [
+            "75",
+            "75",
+            "1392",
+            "1392"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "03786.jpg",
+    "size": 90807,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "10",
+            "540",
+            "540",
+            "10"
+          ],
+          "all_points_y": [
+            "14",
+            "14",
+            "264",
+            "264"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "03827.jpg",
+    "size": 290347,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "40",
+            "1597",
+            "1597",
+            "40"
+          ],
+          "all_points_y": [
+            "88",
+            "88",
+            "1027",
+            "1027"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "04297.jpg",
+    "size": 298699,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "231",
+            "1691",
+            "1691",
+            "231"
+          ],
+          "all_points_y": [
+            "328",
+            "328",
+            "1124",
+            "1124"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "04331.jpg",
+    "size": 80119,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "14",
+            "500",
+            "500",
+            "14"
+          ],
+          "all_points_y": [
+            "126",
+            "126",
+            "296",
+            "296"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "04528.jpg",
+    "size": 18457,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "14",
+            "391",
+            "391",
+            "14"
+          ],
+          "all_points_y": [
+            "27",
+            "27",
+            "171",
+            "171"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "04701.jpg",
+    "size": 57581,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "5",
+            "568",
+            "568",
+            "5"
+          ],
+          "all_points_y": [
+            "113",
+            "113",
+            "381",
+            "381"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "04902.jpg",
+    "size": 29562,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "23",
+            "382",
+            "382",
+            "23"
+          ],
+          "all_points_y": [
+            "91",
+            "91",
+            "234",
+            "234"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "04953.jpg",
+    "size": 555754,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "17",
+            "1587",
+            "1587",
+            "17"
+          ],
+          "all_points_y": [
+            "214",
+            "214",
+            "742",
+            "742"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "05061.jpg",
+    "size": 82461,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "267",
+            "3247",
+            "3247",
+            "267"
+          ],
+          "all_points_y": [
+            "753",
+            "753",
+            "1744",
+            "1744"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "05084.jpg",
+    "size": 121196,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "59",
+            "542",
+            "542",
+            "59"
+          ],
+          "all_points_y": [
+            "60",
+            "60",
+            "346",
+            "346"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "05509.jpg",
+    "size": 67205,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "30",
+            "609",
+            "609",
+            "30"
+          ],
+          "all_points_y": [
+            "191",
+            "191",
+            "380",
+            "380"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "05896.jpg",
+    "size": 38621,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "28",
+            "462",
+            "462",
+            "28"
+          ],
+          "all_points_y": [
+            "61",
+            "61",
+            "366",
+            "366"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "06083.jpg",
+    "size": 271826,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "134",
+            "1514",
+            "1514",
+            "134"
+          ],
+          "all_points_y": [
+            "471",
+            "471",
+            "1071",
+            "1071"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "06216.jpg",
+    "size": 12778,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "16",
+            "283",
+            "283",
+            "16"
+          ],
+          "all_points_y": [
+            "74",
+            "74",
+            "189",
+            "189"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "06306.jpg",
+    "size": 45740,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "6",
+            "483",
+            "483",
+            "6"
+          ],
+          "all_points_y": [
+            "127",
+            "127",
+            "298",
+            "298"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "06327.jpg",
+    "size": 51627,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "127",
+            "503",
+            "503",
+            "127"
+          ],
+          "all_points_y": [
+            "123",
+            "123",
+            "299",
+            "299"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "06350.jpg",
+    "size": 33335,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "9",
+            "573",
+            "573",
+            "9"
+          ],
+          "all_points_y": [
+            "102",
+            "102",
+            "397",
+            "397"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "06694.jpg",
+    "size": 38784,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "55",
+            "480",
+            "480",
+            "55"
+          ],
+          "all_points_y": [
+            "61",
+            "61",
+            "257",
+            "257"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "07091.jpg",
+    "size": 30648,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "75",
+            "328",
+            "328",
+            "75"
+          ],
+          "all_points_y": [
+            "82",
+            "82",
+            "204",
+            "204"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "07482.jpg",
+    "size": 11591,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "44",
+            "268",
+            "268",
+            "44"
+          ],
+          "all_points_y": [
+            "33",
+            "33",
+            "167",
+            "167"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "07523.jpg",
+    "size": 309806,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "31",
+            "964",
+            "964",
+            "31"
+          ],
+          "all_points_y": [
+            "175",
+            "175",
+            "611",
+            "611"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "07576.jpg",
+    "size": 65665,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "67",
+            "558",
+            "558",
+            "67"
+          ],
+          "all_points_y": [
+            "74",
+            "74",
+            "404",
+            "404"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "filename": "07768.jpg",
+    "size": 150993,
+    "regions": {
+      "0": {
+        "region_attributes": {},
+        "shape_attributes": {
+          "all_points_x": [
+            "16",
+            "999",
+            "999",
+            "16"
+          ],
+          "all_points_y": [
+            "181",
+            "181",
+            "667",
+            "667"
+          ]
+        }
+      }
+    }
+  }
+]
