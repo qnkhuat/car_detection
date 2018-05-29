@@ -177,7 +177,7 @@ class CocoDataset(utils.Dataset):
         # We mostly care about the x and y coordinates of each region
         for class_name in classes:
 
-            annotations = json.load(open(os.path.join("/Users/qnkhuat/Desktop/Works/car_detection/data/annotations/json/"+class_name.lower()+".json")))
+            annotations = json.load(open(os.path.join(dataset_dir,"../annotations/json/"+class_name.lower()+".json")))
 
             # The VIA tool saves images in the JSON even if they don't have any
             # annotations. Skip unannotated images.
@@ -398,14 +398,14 @@ if __name__ == '__main__':
     parser.add_argument("command",
                         metavar="<command>",
                         help="'train' or 'evaluate' on MS COCO")
-    parser.add_argument('--dataset', required=True,
+    parser.add_argument('--dataset', required=False,
                         metavar="/path/to/coco/",
                         help='Directory of the MS-COCO dataset')
     parser.add_argument('--year', required=False,
                         default=DEFAULT_DATASET_YEAR,
                         metavar="<year>",
                         help='Year of the MS-COCO dataset (2014 or 2017) (default=2014)')
-    parser.add_argument('--model', required=True,
+    parser.add_argument('--model', required=False,
                         metavar="/path/to/weights.h5",
                         help="Path to weights .h5 file or 'coco'")
     parser.add_argument('--logs', required=False,
@@ -428,6 +428,8 @@ if __name__ == '__main__':
     print("Year: ", args.year)
     print("Logs: ", args.logs)
     print("Auto Download: ", args.download)
+    args.dataset = '../../data/'
+    args.model = 'coco'
 
     # Configurations
     if args.command == "train":
