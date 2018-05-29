@@ -154,7 +154,7 @@ class CocoDataset(utils.Dataset):
         """
         # Add classes.
         for idx,class_name in enumerate(classes):
-            self.add_class("car", idx, class_name)  # add 45 because 45 hasn't be used
+            self.add_class("car", idx, class_name)
 
         # Train or validation dataset?
         dataset_dir = os.path.join(dataset_dir, subset)
@@ -190,11 +190,13 @@ class CocoDataset(utils.Dataset):
                 # the outline of each object instance. There are stores in the
                 # shape_attributes (see json format above)
                 polygons = [r['shape_attributes'] for r in a['regions'].values()]
+                regions  = [r['region_attributes'] for r in a['regions'].values()]
 
                 # load_mask() needs the image size to convert polygons to masks.
                 # Unfortunately, VIA doesn't include it in JSON, so we must read
                 # the image. This is only managable since the dataset is tiny.
                 image_path = os.path.join(dataset_dir, a['filename'])
+                # print([int(regions[0]['class_id']))
                 try:
                     image = skimage.io.imread(image_path)
                     height, width = image.shape[:2]
@@ -205,7 +207,7 @@ class CocoDataset(utils.Dataset):
                         width=width,
                         height=height,
                         polygons=polygons,
-                        class_ids=range(1,len(classes)+1))#add all class_id
+                        class_ids=int(regions[0]['class_id']))#add all class_id
                 except:
                     print('false load car')
                     continue
