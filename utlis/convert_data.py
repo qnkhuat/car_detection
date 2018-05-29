@@ -309,7 +309,9 @@ def convert_to_json(annof):
            'size': size,
            'regions': {
             '0': {
-                'region_attributes': {},
+                'region_attributes': {
+                    'class_id':str(list(trunk.keys()).index(id[class_id-1]) +1 ),# +1 for the background
+                },
                 'shape_attributes': {
                     'all_points_x': all_points_x,
                     'all_points_y': all_points_y
