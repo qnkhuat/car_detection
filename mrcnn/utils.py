@@ -408,8 +408,8 @@ class Dataset(object):
 
         # Return mask, and array of class IDs of each instance. Since we have
         # one class ID only, we return an array of 1s
-        class_ids=np.ones([mask.shape[-1]], dtype=np.int32)*50# 4 for fourth class in our data
-        return mask, class_ids
+        class_ids = np.array([self.class_names.index(s[0]) for s in shapes])
+        return mask, class_ids.astype(np.int32)
 
 
 def resize_image(image, min_dim=None, max_dim=None, min_scale=None, mode="square"):
